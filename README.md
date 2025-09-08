@@ -87,8 +87,7 @@ s.send("acknowledgement recived from the server".encode())
 ~~~
 
 ## Output :
-<img width="519" height="83" alt="image" src="https://github.com/user-attachments/assets/4354551c-844f-45ab-9aa0-ce4299cdba36" />
-<img width="493" height="109" alt="image" src="https://github.com/user-attachments/assets/1f345f99-0492-4641-8016-e951d4d5d6c4" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4c57d7d9-74f2-4f7b-a62b-2ff108d96f10" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
